@@ -32,10 +32,8 @@ Roles in **applied ML, ML engineering, AI engineering, or data science** where t
 
 ### Pinned projects
 
-| Project | What it shows | Stack |
-|---|---|---|
-Repositories coming soon — currently being polished for public release. Reach out via LinkedIn if you'd like to discuss the work in the meantime.
-<!--
+*Repositories coming soon — currently being polished for public release. Reach out via LinkedIn if you'd like to discuss the work in the meantime.*
+
 | Project | What it shows | Stack |
 |---|---|---|
 | **[reddit-fraud-intelligence](https://github.com/michael-johnson03/reddit-fraud-intelligence)** | End-to-end production RAG built during a financial-services capstone: RSS ingestion → 18-theme classification → FAISS retrieval → Mistral-7B grounded synthesis. 5 dated production runs, 565 deduplicated posts. | Python · FAISS · sentence-transformers · Mistral-7B · 4-bit NF4 |
@@ -43,7 +41,7 @@ Repositories coming soon — currently being polished for public release. Reach 
 | **[it-helpdesk-rag-chatbot](https://github.com/michael-johnson03/it-helpdesk-rag-chatbot)** | RAG chatbot with formal IR evaluation (Recall@3 = 1.0, MRR = 1.0); progression from Colab prototype to Streamlit production app. | Streamlit · Gemini · cosine retrieval |
 | **[graphrag-local-ollama](https://github.com/michael-johnson03/graphrag-local-ollama)** | Microsoft GraphRAG end-to-end on private infrastructure — no cloud API dependencies. 14-prompt customized library, LanceDB + Neo4j. | GraphRAG · Ollama · LanceDB · Neo4j |
 | **[n8n-llm-workflow-patterns](https://github.com/michael-johnson03/n8n-llm-workflow-patterns)** | The same RAG and agent patterns expressed in low-code: basic LLM chain, Qdrant RAG, Snowflake-tool agent, Telegram news pipeline. Argues *which tool fits which problem*. | n8n · Qdrant · Ollama · Gemini · Snowflake |
--->
+
 
 ---
 
